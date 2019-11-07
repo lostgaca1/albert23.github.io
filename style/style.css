@@ -1,0 +1,171 @@
+ *{
+	padding:0px;
+	margin:0px;
+	}
+
+#site-container {
+	width:960px;
+	height:auto;
+	margin:20px auto;
+	border:0px solid #000;
+	padding-top:5px;
+	padding-bottom:5px;
+    }
+
+#header {
+	width:900px;
+	height:130px;
+	padding-top: 100px;
+	padding-left: 50px;
+	background: transparent;
+	margin:0px auto;
+	}
+
+#menu-content {
+	width:1000px;
+	height:auto;
+	margin:5 auto;
+	}
+
+#menu {
+	float:left;
+	width:250px;
+	border:0px solid #000;
+	}
+
+#content {
+	float:right;
+	width:500px;
+	height:500px;
+	border:0px solid #000;
+	font: 14pt "Anonymous Pro";
+	color: black;
+	}
+
+#footer {
+	width:950px;
+	height:70px;
+	margin:5px auto;
+	border:0px solid #000;
+	}
+
+#floating{
+	clear:both;
+	height:0px;
+	line-height:0px;
+	}
+
+#header {
+	width:550px;
+	height:180px;
+	background:transparent;
+	width: 100%;
+	margin:0px auto;
+	}
+
+#header a{
+	font:20pt 'Anonymous Pro';
+	text-decoration:none;
+	color:black;
+	text-align: center;
+	}
+
+#header p{
+	font:45pt 'Anonymous Pro';
+	color:black	;
+	}
+
+.judul_1{
+	display:block;
+	height:40px;
+	
+	font:20pt "Anonymous Pro";
+	color:black;
+	text-align:center;
+	;
+	font-weight: bold;
+	}
+
+	#menu ul{
+	list-style:none;
+	text-align: center;
+	font-weight: bolder;
+	}
+
+#menu li a{
+	display:block;
+	height:30px;
+	font:16pt "Anonymous Pro";
+	color:black;
+	
+}
+
+#menu li a:hover{
+	background:#000000;
+	color:black;
+	}
+
+#content{
+	width:610px;
+	height:auto;
+	float:right;
+	background:url(../images/ope.jpg);
+	background: transparent;
+	padding:15px;
+	}
+
+.judul_2{
+	display:block;
+	font:26pt "Anonymous Pro";
+	color:black;
+	padding-bottom:10px;
+	font-weight: bolder;
+	}
+
+	.img{
+	width:250px;
+	height:200px;
+	border:3px solid red;
+	margin-top:20px;
+	margin-right:20px;
+	float:left;
+	}
+
+#content p{
+	margin-top:20px;
+	}
+
+#footer{
+	width:950px;
+	height:40px;
+	margin-top:550px;
+	margin-bottom:0px;
+	margin-right:auto;
+	margin-left:auto;
+	background:transparent;
+	text-align:center;
+	padding-top:30px;
+	font-weight:bold;
+	color:white;
+	}
+
+body{
+	background:url(../images/rr.jpg);
+	font:10pt verdana;
+	}
+
+#site-container{
+	width:1000px;
+	height:auto;
+	margin:30px auto;
+	background:#transparent;
+	padding-top:0px;
+	padding-bottom:0px;
+}
+
+#wrapper{
+  width: 950px;
+  margin: auto;
+  background-color:rgba(255,255,255,0.8);
+  border-radius: 0px;
+
